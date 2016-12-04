@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ivProfile"
+    style="@style/iv_image_main"
+    android:layout_width="@dimen/image_dimen_main"
+    android:layout_height="@dimen/image_dimen_main" />

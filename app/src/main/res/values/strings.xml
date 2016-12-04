@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emojis</string>
+    <string name="app_title">Github Emojis</string>
+    <string name="title_activity_details">Emoji Details</string>
+    <string name="emoji_title">Emoji Title</string>
+    <string name="transition_name">image_transition</string>
+</resources>
